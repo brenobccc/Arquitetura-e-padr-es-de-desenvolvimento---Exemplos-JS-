@@ -1,0 +1,5 @@
+devmedia.com.br/padrao-de-projeto-singleton-em-java/26392
+
+https://refactoring.guru/pt-br/design-patterns/singleton
+
+https://nandovieira.com.br/design-patterns-no-javascript-singleton
